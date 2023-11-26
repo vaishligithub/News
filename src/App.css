@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.start-100{
+  left:80% !important;
+}
+.navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .show>.nav-link {
+  color: #ffffff;
+}
+.navbar-dark .navbar-nav .nav-link.active:hover {
+  color: red;
+}
+  
